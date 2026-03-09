@@ -59,12 +59,6 @@ Se utilizó la función de activación **tanh** en la capa oculta y en la capa d
 ---
 
 ## Archivos principales
-- `train_mlp.ipynb` o `train_mlp.py`  
-  Entrenamiento del modelo en Python para obtener pesos y bias.
-
-- `zumo_mlp.ino`  
-  Código de Arduino que implementa el forward pass del MLP en el robot.
-
 - `README.md`  
   Descripción general del proyecto.
 
@@ -75,6 +69,8 @@ Se utilizó la función de activación **tanh** en la capa oculta y en la capa d
 - El modelo responde a cambios en la posición de la línea.
 - Se valida el comportamiento del MLP mediante evidencia visual y terminal serial.
 
+## enlace del video en google drive.
+https://drive.google.com/drive/folders/1_VbwxrSnOR1rYuvLzb8nAcCe5vmAC6JM?usp=sharing
 ---
 
 ## Referencias
